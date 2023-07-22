@@ -19,40 +19,37 @@ This project is an online JavaScript MCQ (Multiple Choice Questions) web applica
 
 You can check out the live demo of the application at : https://dinesh-nikam.github.io/online-mcq-on-javascript.github.io/
 
-## Getting Started 🛠️
+
+
+Getting Started 🛠️
 
 Follow these steps to set up the project on your local machine:
 
-1. **Clone the Repository:**
-   ```bash
-  gh repo clone dinesh-nikam/online-mcq-on-javascript.github.io
-   cd online-mcq-on-javascript
-   ```
+    Clone the Repository:
 
-2. **Open `index.html` in your web browser:** No server setup is required as the application runs entirely in the browser.
+    bash
 
-## How to Use 📚
+    gh repo clone dinesh-nikam/online-mcq-on-javascript.github.io
+    cd online-mcq-on-javascript
 
-1. Select the answer by clicking on the corresponding option for each question.
-2. After answering all the questions, click the "Submit" button to view your results.
-3. The application will display the total score and indicate which answers are correct and incorrect.
-4. You can retake the quiz or exit the application after viewing the results.
+    Open index.html in your web browser: No server setup is required as the application runs entirely in the browser.
 
-## Contribution Guidelines 🤝❤️
+How to Use 📚
+
+    Select the answer by clicking on the corresponding option for each question.
+    After answering all the questions, click the "Submit" button to view your results.
+    The application will display the total score and indicate which answers are correct and incorrect.
+    You can retake the quiz or exit the application after viewing the results.
+
+Contribution Guidelines 🤝❤️
 
 Contributions are welcome! If you wish to add more questions or improve the application, feel free to submit a pull request. Make sure to follow the established coding style and guidelines.
+Technologies Used 🛠️
 
-## Technologies Used 🛠️
+    HTML, CSS, JavaScript
 
-- HTML, CSS, JavaScript
+License 📄
 
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments 🙏
-
-
-
----
+This project is licensed under the MIT License.
+Acknowledgments 🙏
 
