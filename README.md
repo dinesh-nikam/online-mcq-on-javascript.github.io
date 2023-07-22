@@ -36,10 +36,10 @@ Follow these steps to set up the project on your local machine:
 
 How to Use 📚
 
-    Select the answer by clicking on the corresponding option for each question.
-    After answering all the questions, click the "Submit" button to view your results.
-    The application will display the total score and indicate which answers are correct and incorrect.
-    You can retake the quiz or exit the application after viewing the results.
+   1. Select the answer by clicking on the corresponding option for each question.
+   2. After answering all the questions, click the "Submit" button to view your results.
+   3. The application will display the total score and indicate which answers are correct and incorrect.
+   4. You can retake the quiz or exit the application after viewing the results.
 
 Contribution Guidelines 🤝❤️
 
