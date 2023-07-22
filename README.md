@@ -1,5 +1,5 @@
 # online-mcq-on-javascript.github.io
-Apologies for the oversight. Let's create a README.md for an online JavaScript MCQ without using React:
+
 
 # Online JavaScript MCQ (Multiple Choice Questions) 📝
 
