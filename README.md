@@ -27,12 +27,12 @@ Follow these steps to set up the project on your local machine:
 
     Clone the Repository:
 
-    bash
+    1.bash
 
     gh repo clone dinesh-nikam/online-mcq-on-javascript.github.io
     cd online-mcq-on-javascript
 
-    Open index.html in your web browser: No server setup is required as the application runs entirely in the browser.
+   2. Open index.html in your web browser: No server setup is required as the application runs entirely in the browser.
 
 How to Use 📚
 
