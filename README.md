@@ -25,9 +25,9 @@ Getting Started 🛠️
 
 Follow these steps to set up the project on your local machine:
 
-    Clone the Repository:
+    1. Clone the Repository:
 
-    1.bash
+    bash
 
     gh repo clone dinesh-nikam/online-mcq-on-javascript.github.io
     cd online-mcq-on-javascript
